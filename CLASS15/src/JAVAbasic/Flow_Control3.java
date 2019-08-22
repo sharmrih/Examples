@@ -7,7 +7,7 @@ public class Flow_Control3 {
 
 		int a,b;
 		
-		a=50; b=50;
+		a=590; b=50;
 		
 		if (a>b) {
 			

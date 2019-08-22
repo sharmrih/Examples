@@ -5,7 +5,7 @@ public class Flow_Control4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a =0;
+		int a = 100000000;
 		
 		if ((a >= 1) && (a <=100)) {
 			

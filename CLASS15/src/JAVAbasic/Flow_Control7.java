@@ -6,7 +6,7 @@ public class Flow_Control7 {
 		// TODO Auto-generated method stub
 		
 		
-		char grade ='X';
+		char grade ='B';
 		
 		switch	(grade) {
 		
