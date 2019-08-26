@@ -6,7 +6,11 @@ public class Flow_Control7 {
 		// TODO Auto-generated method stub
 		
 		
+<<<<<<< HEAD
 		char grade ='X';
+=======
+		char grade ='B';
+>>>>>>> branch 'master' of https://github.com/sharmrih/Examples.git
 		
 		switch	(grade) {
 		

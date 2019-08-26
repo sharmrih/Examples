@@ -7,7 +7,11 @@ public class Flow_Control3 {
 
 		int a,b;
 		
+<<<<<<< HEAD
 		a=50; b=50;
+=======
+		a=590; b=50;
+>>>>>>> branch 'master' of https://github.com/sharmrih/Examples.git
 		
 		if (a>b) {
 			

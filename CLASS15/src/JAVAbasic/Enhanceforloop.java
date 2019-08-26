@@ -6,7 +6,11 @@ public class Enhanceforloop {
 		// TODO Auto-generated method stub
 		
 		
+<<<<<<< HEAD
 		String[] languages = {"C", "COBOL", "JAVE" };
+=======
+		String[] languages = {"C", "COBOL", "JAVA" };
+>>>>>>> branch 'master' of https://github.com/sharmrih/Examples.git
 		
 		for (String lang:languages ) {
 			
