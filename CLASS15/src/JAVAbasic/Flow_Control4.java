@@ -5,11 +5,11 @@ public class Flow_Control4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-<<<<<<< HEAD
+
 		int a =0;
-=======
-		int a = 100000000;
->>>>>>> branch 'master' of https://github.com/sharmrih/Examples.git
+
+	
+
 		
 		if ((a >= 1) && (a <=100)) {
 			
